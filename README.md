@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Trinh Thanh Tung</h1>
-<h3 align="center">A passionate frontend developer from Viet Nam</h3>
+<h1 align="center">Hi 👋, I'm Vu Manh Hoang</h1>
+<h3 align="center">A back-end developer from Viet Nam</h3>
 
 - 🔭 I’m currently working at **<a href="https://www.bstarsolutions.com/" target="_blank">Bstar Solutions<a/> - 10/2021 to present**
 
-- 👨‍💻 My portfolio <a href="https://www.tung-dev.com/my-porfolio/home" target="_blank">tung-dev<a/>
+- 📫 How to reach me **hoangvm95@gmail.com**
 
-- 📫 How to reach me **trinhthanhtung1010@gmail.com**
-
-- ⚡ Fun fact about me **I really like bodykey just because i'm lazy**
+- ⚡ About me **Keep it real**
 
 <h3 align="left">Frontend Development:</h3>
 <div align="left" display="flex" gap="5px">
@@ -15,15 +13,12 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </div>
 
 <h3 align="left">Backend Development:</h3>
 <div align="left" display="flex" gap="5px">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://en.wikipedia.org/wiki/File:Spring_Boot.svg" alt="Spring Boot" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
@@ -41,12 +36,6 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-</div>
-
-<h3 align="left">BaaS:</h3>
-<div align="left" display="flex" gap="5px">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 </div>
 
 <h3 align="left">Other:</h3>
