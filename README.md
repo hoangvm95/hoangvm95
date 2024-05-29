@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vu Manh Hoang</h1>
 <h3 align="center">A back-end developer from Viet Nam</h3>
 
-- 🔭 I’m currently working at **<a href="https://www.bstarsolutions.com/" target="_blank">Bstar Solutions<a/> - 10/2021 to present**
+- 🔭 I’m currently working at **<a href="https://www.bstarsolutions.com/" target="_blank">Bstar Solutions<a/> - 1/2024 to present**
 
 - 📫 How to reach me **hoangvm95@gmail.com**
 
